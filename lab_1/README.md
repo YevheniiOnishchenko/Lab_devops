@@ -13,3 +13,5 @@
 ## Web version of git
 8. Editing README file
 9. Using command `git pull` to sync web and local git
+## Image
+10. Adding an image to the repository
