@@ -6,3 +6,5 @@
 ## New branch
 4. Creating new branch `git branch branch_lab_1`
 5. Switch current branch `git checkout branch_lab_1`
+## Errors
+6. Changes were made in the **branch branch_lab_1**
