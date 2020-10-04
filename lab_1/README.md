@@ -10,3 +10,5 @@
 6. Changes were made in the **branch branch_lab_1**
 ## Errors with merging
 7. There was an attempt to change README file in one place
+## Web version of git
+8. Editing README file
