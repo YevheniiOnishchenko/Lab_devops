@@ -15,3 +15,4 @@
 9. Using command `git pull` to sync web and local git
 ## Image
 10. Adding an image to the repository
+11. ![Tank](lab_1/397f914a09-2_1390x600.jpg)
