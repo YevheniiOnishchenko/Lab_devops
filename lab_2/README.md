@@ -7,3 +7,6 @@
 6. Creating results.txt file
 7. Using command `pytest tests/tests.py > results.txt` 
 8. Using command `python app.py >> results.txt`
+9. Editing Makefile
+10. Testing Makefile
+
