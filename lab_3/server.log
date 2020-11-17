@@ -1,0 +1,39 @@
+WARNING 2020-11-17 14:56:41,084 root : Page is unable
+ERROR 2020-11-17 14:56:41,085 root : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbce2bf6070>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO 2020-11-17 15:11:49,184 root : Сервер доступний. Час на сервері: 2020-11-17T12:11:49.167
+INFO 2020-11-17 15:11:49,184 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-17 15:11:49,185 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-17 15:11:49,194 root : Ключ: date, Значення: 2020-11-17T12:11:49.167
+INFO 2020-11-17 15:11:49,195 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-17 15:11:49,195 root : Ключ: server_info, Значення: posix
+INFO 2020-11-17 15:11:49,195 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-17 15:12:41,769 root : Сервер доступний. Час на сервері: 2020-11-17T12:12:41.751
+INFO 2020-11-17 15:12:41,769 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-17 15:12:41,769 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-17 15:12:41,770 root : Ключ: date, Значення: 2020-11-17T12:12:41.751
+INFO 2020-11-17 15:12:41,770 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-17 15:12:41,783 root : Ключ: server_info, Значення: posix
+INFO 2020-11-17 15:12:41,783 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-17 15:13:41,866 root : Сервер доступний. Час на сервері: 2020-11-17T12:13:41.859
+INFO 2020-11-17 15:13:41,868 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-17 15:13:41,868 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-17 15:13:41,869 root : Ключ: date, Значення: 2020-11-17T12:13:41.859
+INFO 2020-11-17 15:13:41,869 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-17 15:13:41,869 root : Ключ: server_info, Значення: posix
+INFO 2020-11-17 15:13:41,869 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-17 15:14:41,951 root : Сервер доступний. Час на сервері: 2020-11-17T12:14:41.933
+INFO 2020-11-17 15:14:41,952 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-17 15:14:41,952 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-17 15:14:41,952 root : Ключ: date, Значення: 2020-11-17T12:14:41.933
+INFO 2020-11-17 15:14:41,952 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-17 15:14:41,952 root : Ключ: server_info, Значення: posix
+INFO 2020-11-17 15:14:41,952 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-17 15:22:00,968 root : Сервер доступний. Час на сервері: 2020-11-17T12:22:00.952
+INFO 2020-11-17 15:22:00,969 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-17 15:22:00,969 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-17 15:22:00,980 root : Ключ: date, Значення: 2020-11-17T12:22:00.952
+INFO 2020-11-17 15:22:00,981 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-17 15:22:00,981 root : Ключ: server_info, Значення: posix
+INFO 2020-11-17 15:22:00,981 root : Ключ: client_info, Значення: python-requests/2.25.0
+WARNING 2020-11-17 15:23:01,040 root : Page is unable
+ERROR 2020-11-17 15:23:01,041 root : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd486858100>: Failed to establish a new connection: [Errno 111] Connection refused'))
