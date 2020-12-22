@@ -1,0 +1,41 @@
+WARNING 2020-12-22 19:27:28,786 root : Page is unable
+ERROR 2020-12-22 19:27:28,789 root : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8627938b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+WARNING 2020-12-22 19:28:28,849 root : Page is unable
+ERROR 2020-12-22 19:28:28,849 root : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f86278e4490>: Failed to establish a new connection: [Errno 111] Connection refused'))
+WARNING 2020-12-22 19:29:28,918 root : Page is unable
+ERROR 2020-12-22 19:29:28,919 root : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f86278e4ca0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+WARNING 2020-12-22 19:30:28,987 root : Page is unable
+ERROR 2020-12-22 19:30:28,989 root : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8627938b20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+WARNING 2020-12-22 19:31:29,054 root : Page is unable
+ERROR 2020-12-22 19:31:29,063 root : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f86278e4820>: Failed to establish a new connection: [Errno 111] Connection refused'))
+WARNING 2020-12-22 19:32:29,124 root : Page is unable
+ERROR 2020-12-22 19:32:29,124 root : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f86278e4490>: Failed to establish a new connection: [Errno 111] Connection refused'))
+WARNING 2020-12-22 19:33:29,195 root : Page is unable
+ERROR 2020-12-22 19:33:29,196 root : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f86278ef4f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+WARNING 2020-12-22 19:34:29,263 root : Page is unable
+ERROR 2020-12-22 19:34:29,268 root : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f86278efd00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+WARNING 2020-12-22 19:35:29,340 root : Page is unable
+ERROR 2020-12-22 19:35:29,360 root : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f86278f8550>: Failed to establish a new connection: [Errno 111] Connection refused'))
+WARNING 2020-12-22 19:36:29,466 root : Page is unable
+ERROR 2020-12-22 19:36:29,467 root : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8627938130>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO 2020-12-22 19:41:12,366 root : Сервер доступний. Час на сервері: 2020-12-22T19:41:12.349
+INFO 2020-12-22 19:41:12,377 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-22 19:41:12,378 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-22 19:41:12,379 root : Ключ: date, Значення: 2020-12-22T19:41:12.349
+INFO 2020-12-22 19:41:12,380 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-22 19:41:12,380 root : Ключ: server_info, Значення: posix
+INFO 2020-12-22 19:41:12,380 root : Ключ: client_info, Значення: python-requests/2.25.0
+INFO 2020-12-22 19:42:12,481 root : Сервер доступний. Час на сервері: 2020-12-22T19:42:12.468
+INFO 2020-12-22 19:42:12,482 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-22 19:42:12,483 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-22 19:42:12,485 root : Ключ: date, Значення: 2020-12-22T19:42:12.468
+INFO 2020-12-22 19:42:12,487 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-22 19:42:12,487 root : Ключ: server_info, Значення: posix
+INFO 2020-12-22 19:42:12,487 root : Ключ: client_info, Значення: python-requests/2.25.0
+INFO 2020-12-22 19:43:12,654 root : Сервер доступний. Час на сервері: 2020-12-22T19:43:12.625
+INFO 2020-12-22 19:43:12,655 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-22 19:43:12,657 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-22 19:43:12,657 root : Ключ: date, Значення: 2020-12-22T19:43:12.625
+INFO 2020-12-22 19:43:12,657 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-22 19:43:12,657 root : Ключ: server_info, Значення: posix
+INFO 2020-12-22 19:43:12,658 root : Ключ: client_info, Значення: python-requests/2.25.0
