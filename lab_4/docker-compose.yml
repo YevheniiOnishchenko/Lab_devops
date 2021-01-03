@@ -1,0 +1,24 @@
+version: '3.7'
+services: 
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: yevheniionishchenko/lab_5:django-app
+    container_name: django-app
+    networks: 
+      - public
+    ports: 
+      - 8000:8000
+  monitor:
+    build:
+      context: .
+      dockerfile: Dockerfile.monitoring
+    image: yevheniionishchenko/lab_5:django-monitor
+    container_name: django-monitoring
+
+    network_mode: host
+
+networks: 
+  public:
+    driver: bridge
