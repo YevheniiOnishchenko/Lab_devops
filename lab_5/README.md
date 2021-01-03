@@ -23,3 +23,4 @@ docker-prune - clears all conteiners and images
 12. Using command `sudo docker-compose down`
 13. Using command `sudo docker-compose push` <br/>
 As for me, it is better to use Makefile. Its structure is clearer for me and there is ability to clean containers and images. 
+14. Adding docker-compose.yml for lab_4
