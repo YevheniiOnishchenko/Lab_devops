@@ -24,7 +24,7 @@ def main(url):
 
 
 if __name__ == '__main__':
-    while True:
+    
         try:
             main("http://localhost:8000/health")
         except requests.exceptions.ConnectionError as e:
