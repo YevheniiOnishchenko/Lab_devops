@@ -23,7 +23,14 @@ class TestClass(unittest.TestCase):
 
     def test_home_work(self):
         # Ваш захист
-        self.assertEqual(home_work(), "Доброi ночi")
+        cl = time.strftime('%H', time.localtime())
+        t = int(cl)
+        if t > 12:
+    	    self.assertEqual(home_work(), "Доброi ночi")
+    	
+        else:
+    	    self.assertEqual(home_work(), "Доброго дня")
+    	    
 
     def test_my_fun(self):
         self.assertEqual(my_good_fun(), "success")
