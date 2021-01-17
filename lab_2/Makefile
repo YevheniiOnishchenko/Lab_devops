@@ -13,6 +13,9 @@ test:
 	@echo "Start tests."
 	pipenv run pytest tests/tests.py > results.txt
 
+test-cli:
+	pipenv run pytest tests/tests.py
+
 run:
 	@echo "Run Python app."
 	python app.py >> results.txt
